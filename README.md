@@ -3,8 +3,8 @@
 
 ローカルPCをngrokを用いて外部に公開して、タブレットPOSアプリからの注文情報をWenhookで受け取ります。
 レシートプリンターと接続してレシートを発行できます。
-/User/~?Library/Application Support/clpos
-にファイルを生成するので、確認が終わったらお手数ですが削除をお願いします。
+/User/{ユーザー名}/Library/Application Support/clpos  
+にファイルを生成するので、確認が終わったらお手数ですが削除をお願いします。  
 
 ## Usage
 プリンターを接続で表示されるモーダルで  
